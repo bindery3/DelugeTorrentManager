@@ -1,0 +1,2 @@
+# DelugeTorrentManager
+将体积大于硬盘空间的种子中文件分批下载并上传到网盘
